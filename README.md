@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=5194f0&height=250&section=header&text=Baek%20Ji-Yun&fontSize=90&desc='s%20git&descAlignY=56&descAlign=81&fontColor=fffefe)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=5194f0&height=240&section=header&text=Baek%20Ji-Yun&fontSize=90&desc='s%20git&descAlignY=56&descAlign=81&fontColor=fffefe)
 ### Hi there 👋
 
 <!--

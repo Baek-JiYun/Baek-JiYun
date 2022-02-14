@@ -1,7 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=5194f0&height=250&section=header&text=Baek%20Ji-Yun&fontSize=90&desc='s%20git&descAlignY=56&descAlign=81&fontColor=fffefe)
 ### Hi there 👋
 
 <!--
 **Baek-JiYun/Baek-JiYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Baek-JiYun&show_icons=true&theme=cynthwave)
 
 Here are some ideas to get you started:
 

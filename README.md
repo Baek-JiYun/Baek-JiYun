@@ -7,6 +7,7 @@
 
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <!--
 **Baek-JiYun/Baek-JiYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5194f0&height=240&section=header&text=Baek%20Ji-Yun&fontSize=90&desc='s%20git&descAlignY=56&descAlign=81&fontColor=fffefe&animation=fadeIn)
 <br><br>
 
-###  👋 안녕하세요 백지윤입니다!
+###  🐣 안녕하세요 백지윤입니다! 🐣
 
 <br>
 
@@ -34,16 +34,28 @@
 ***
 
 <br>
-<h3 align ="center">📖 Education</h3>
+<h3 align ="center">📖 Education 📖</h3>
+
+<br>
 
   
   
 |        기간      |           과정          |       기관/장소       |
 |  :-------:  |  :--------:  |  :--------:  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021.08 ~ 2022.03 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI를 활용한 빅데이터 서비스 플랫폼 개발자 과정 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 경북산업직업전문학교 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp; 2021.08 ~ 2022.03 &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; AI를 활용한 빅데이터 서비스 플랫폼 개발자 과정 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 경북산업직업전문학교 &nbsp;&nbsp;&nbsp;&nbsp; |
 
   
 <br>
+
+***
+
+<br>
+
+<h3 align="center">💡 Repositories 💡</h3>
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyu-hwan&repo=Ai3_GaTeam_lottery)](https://github.com/gyu-hwan/Ai3_GaTeam_lottery)
 
 ***
 
@@ -54,8 +66,8 @@
 <br>
 
 <p align="center">
-<img alt="naver" src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
- <h5 align="center"> skflahwk@naver.com</h5>
+<img alt="naver" src="https://img.shields.io/badge/skflahwk@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
+
   </p>
 <br>
 
